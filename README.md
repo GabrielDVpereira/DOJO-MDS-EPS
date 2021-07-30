@@ -19,4 +19,4 @@ Repositório criado para treinamento do time de Métodos de Desenvolvimento de s
 
 - [x] Quinta - (29/07) - 22h - Treinamento de Git - Sofia
 
-- [x] Sexta - (30/07) - 22h - Treinamento de Scrum - Micaella
+- [] Sexta - (30/07) - 22h - Treinamento de Scrum - Micaella
