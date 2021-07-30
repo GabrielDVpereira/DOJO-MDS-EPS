@@ -17,6 +17,6 @@ Repositório criado para treinamento do time de Métodos de Desenvolvimento de s
 
 - [x] Quarta - (28/07) - 20h - Treinamento de JavaScript - Pedro Igor
 
-- [ ] Quinta - (29/07) - 22h - Treinamento de Git - Sofia
+- [x] Quinta - (29/07) - 22h - Treinamento de Git - Sofia
 
-- [ ] Sexta - (30/07) - 22h - Treinamento de Scrum - Micaella
+- [x] Sexta - (30/07) - 22h - Treinamento de Scrum - Micaella
